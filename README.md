@@ -1,7 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Milestone Blog App
+# Blog App
 
 ## Description
 
@@ -9,56 +6,9 @@ Project aims to create a Milestone Blog App.
 
 ## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- adding a new project to my portfolios. and started to work on the project.
 
 ## Project Skeleton
-
-```
-Milestone Blog App (folder for context)
-|       # Given to the students (Definition of the project)
-SOLUTION
-├── src
-│    ├── index.js
-│    ├── App.js
-│    ├── assets
-│    │   └── cw.png
-│    ├── components
-│    │   ├── auth
-│    │   │   ├── Login.jsx
-│    │   │   └── Register.jsx
-│    │   ├── blog
-│    │   │   ├── BlogCard.jsx
-│    │   │   ├── BlogForm.jsx
-│    │   │   ├── CommentForm.jsx
-│    │   │   ├── DeleteModal.jsx
-│    │   │   └── UpdateModal.jsx
-│    │   ├── Footers.jsx
-│    │   └── NavBars.jsx
-│    ├── context
-│    │   ├── AuthContext.jsx
-│    │   └── BlogContext.jsx
-│    ├── helper
-│    │   ├── ToastNotify.jsx
-│    │   └── menuList.js
-│    ├── pages
-│    │   ├── About.jsx
-│    │   ├── Auth.jsx
-│    │   ├── BlogDetail.jsx
-│    │   ├── Dashboard.jsx
-│    │   ├── MyBlog.jsx
-│    │   ├── NewBlog.jsx
-│    │   └── Profile.jsx
-│    ├── reducer
-│    │   ├── authReducer.js
-│    │   └── blogReducer.js
-│    ├── router
-│    │   ├── AppRouter.jsx
-│    │   └── PrivateRouter.jsx
-│    ├── service
-│    │   └── useAxios.jsx
-│    └── styles
-│        └── globalStyles.jsx
-```
 
 ```
 Milestone Blog App (folder for redux)
@@ -127,7 +77,7 @@ Build a Milestone Blog App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project, will be able to;
 
 - improve coding skills within HTML & CSS & JS & ReactJS & Django.
 
@@ -139,15 +89,10 @@ Build a Milestone Blog App using ReactJS.
 
 - Step 2 : Use Django backend for authentication and CRUD operations.
 
-- Step 3 : You can use css frameworks like Bootstrap, Tailwind Css, Material UI.
+- Step 3 : use css frameworks Bootstrap, Tailwind Css, Material UI.
 
-- Step 4 : You can view sample app on https://milestone-blogapp.vercel.app/.
+- Step 4 : Add project gif to your project and README.md file.
 
-- Step 5 : Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
